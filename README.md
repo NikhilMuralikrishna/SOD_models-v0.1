@@ -210,7 +210,7 @@ The script then creates:
 detections.geojson
 ```
 
-Each detection is represented as a geographic polygon derived from its image-space bounding box. Properties include the source image, class, confidence, centroid longitude and latitude, and original pixel bounding box.
+Each detection is represented as a geographic polygon derived from its image-space bounding box.
 
 If the input does not contain a CRS, normal vessel detection still runs, but geographic coordinates cannot be generated.
 
