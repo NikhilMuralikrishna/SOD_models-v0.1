@@ -12,7 +12,7 @@ This repository contains trained models and inference scripts for two maritime E
 ## Repository structure
 
 ``` text
-ai4copsec\\\_univpm-models-v0.1/
+SOD_models-v0.1/
 ├── README.md
 ├── config.py
 ├── model.py
