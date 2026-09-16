@@ -1,0 +1,226 @@
+{
+  "oil_00228_SAR (1).tif": {
+    "modality": "sar",
+    "size": [
+      2048,
+      2048
+    ],
+    "oil_pixels": 86619,
+    "oil_fraction": 0.02065,
+    "mean_prob": 0.0213,
+    "max_prob": 1.0,
+    "crs": "EPSG:4326",
+    "n_polygons": 67,
+    "total_area_m2": 7385866.0,
+    "largest": {
+      "spill_id": "oil_00228_SAR (1)-0059",
+      "centroid_lon": 31.31761,
+      "centroid_lat": 31.730349,
+      "area_m2": 6886036.5
+    }
+  },
+  "oil_00228_SAR (2).tif": {
+    "modality": "sar",
+    "size": [
+      2048,
+      2048
+    ],
+    "oil_pixels": 33613,
+    "oil_fraction": 0.00801,
+    "mean_prob": 0.0085,
+    "max_prob": 1.0,
+    "crs": "EPSG:4326",
+    "n_polygons": 5,
+    "total_area_m2": 3073112.2,
+    "largest": {
+      "spill_id": "oil_00228_SAR (2)-0005",
+      "centroid_lon": -90.87516,
+      "centroid_lat": 22.970504,
+      "area_m2": 3072746.6
+    }
+  },
+  "oil_00228_SAR (3).tif": {
+    "modality": "sar",
+    "size": [
+      2048,
+      2048
+    ],
+    "oil_pixels": 79752,
+    "oil_fraction": 0.01901,
+    "mean_prob": 0.0198,
+    "max_prob": 1.0,
+    "crs": "EPSG:4326",
+    "n_polygons": 45,
+    "total_area_m2": 6759479.3,
+    "largest": {
+      "spill_id": "oil_00228_SAR (3)-0045",
+      "centroid_lon": 32.582524,
+      "centroid_lat": 31.594607,
+      "area_m2": 6639399.8
+    }
+  },
+  "oil_00228_SAR (4).tif": {
+    "modality": "sar",
+    "size": [
+      2048,
+      2048
+    ],
+    "oil_pixels": 16741,
+    "oil_fraction": 0.00399,
+    "mean_prob": 0.0049,
+    "max_prob": 1.0,
+    "crs": "EPSG:4326",
+    "n_polygons": 47,
+    "total_area_m2": 1410008.3,
+    "largest": {
+      "spill_id": "oil_00228_SAR (4)-0024",
+      "centroid_lon": 32.280875,
+      "centroid_lat": 32.093633,
+      "area_m2": 496254.9
+    }
+  },
+  "oil_00228_SAR (5).tif": {
+    "modality": "sar",
+    "size": [
+      2048,
+      2048
+    ],
+    "oil_pixels": 65148,
+    "oil_fraction": 0.01553,
+    "mean_prob": 0.0164,
+    "max_prob": 1.0,
+    "crs": "EPSG:4326",
+    "n_polygons": 33,
+    "total_area_m2": 5505078.5,
+    "largest": {
+      "spill_id": "oil_00228_SAR (5)-0033",
+      "centroid_lon": 31.301792,
+      "centroid_lat": 31.766023,
+      "area_m2": 3806410.4
+    }
+  },
+  "oil_00228_SAR (6).tif": {
+    "modality": "sar",
+    "size": [
+      2048,
+      2048
+    ],
+    "oil_pixels": 34205,
+    "oil_fraction": 0.00816,
+    "mean_prob": 0.0087,
+    "max_prob": 1.0,
+    "crs": "EPSG:4326",
+    "n_polygons": 24,
+    "total_area_m2": 2888833.2,
+    "largest": {
+      "spill_id": "oil_00228_SAR (6)-0021",
+      "centroid_lon": 31.374323,
+      "centroid_lat": 31.732065,
+      "area_m2": 2569843.0
+    }
+  },
+  "sar_test_256.tif": {
+    "modality": "sar",
+    "size": [
+      256,
+      256
+    ],
+    "oil_pixels": 8522,
+    "oil_fraction": 0.13004,
+    "mean_prob": 0.1289,
+    "max_prob": 1.0,
+    "crs": "EPSG:4326",
+    "n_polygons": 5,
+    "total_area_m2": 720257.6,
+    "largest": {
+      "spill_id": "sar_test_256-0005",
+      "centroid_lon": 31.329725,
+      "centroid_lat": 31.730483,
+      "area_m2": 719750.7
+    }
+  },
+  "optical (1).tif": {
+    "modality": "optical",
+    "size": [
+      240,
+      240
+    ],
+    "oil_pixels": 0,
+    "oil_fraction": 0.0,
+    "mean_prob": 0.0,
+    "max_prob": 0.1347,
+    "crs": null
+  },
+  "optical (2).tif": {
+    "modality": "optical",
+    "size": [
+      240,
+      240
+    ],
+    "oil_pixels": 2,
+    "oil_fraction": 3e-05,
+    "mean_prob": 0.0001,
+    "max_prob": 0.6538,
+    "crs": null
+  },
+  "optical (3).tif": {
+    "modality": "optical",
+    "size": [
+      240,
+      240
+    ],
+    "oil_pixels": 940,
+    "oil_fraction": 0.01632,
+    "mean_prob": 0.0173,
+    "max_prob": 0.9985,
+    "crs": null
+  },
+  "optical (4).tif": {
+    "modality": "optical",
+    "size": [
+      240,
+      240
+    ],
+    "oil_pixels": 601,
+    "oil_fraction": 0.01043,
+    "mean_prob": 0.0108,
+    "max_prob": 0.9999,
+    "crs": null
+  },
+  "optical (5).tif": {
+    "modality": "optical",
+    "size": [
+      240,
+      240
+    ],
+    "oil_pixels": 0,
+    "oil_fraction": 0.0,
+    "mean_prob": 0.0,
+    "max_prob": 0.0063,
+    "crs": null
+  },
+  "optical (6).tif": {
+    "modality": "optical",
+    "size": [
+      240,
+      240
+    ],
+    "oil_pixels": 306,
+    "oil_fraction": 0.00531,
+    "mean_prob": 0.0054,
+    "max_prob": 0.9999,
+    "crs": null
+  },
+  "optical_test_256.tif": {
+    "modality": "optical",
+    "size": [
+      256,
+      256
+    ],
+    "oil_pixels": 823,
+    "oil_fraction": 0.01256,
+    "mean_prob": 0.0125,
+    "max_prob": 1.0,
+    "crs": null
+  }
+}
