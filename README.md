@@ -176,7 +176,7 @@ The annotated image shows detected ships with bounding boxes.
 `detections.json` stores each detection as:
 
 ```text
-[x1, y1, x2, y2, confidence]
+[x1, y1, x2, y2]
 ```
 
 where `(x1, y1)` and `(x2, y2)` are the upper-left and lower-right corners of the bounding box in image pixel coordinates.
